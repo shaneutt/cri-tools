@@ -128,10 +128,11 @@ github.com/onsi/gomega/types
 # github.com/opencontainers/go-digest v1.0.0
 ## explicit
 github.com/opencontainers/go-digest
-# github.com/opencontainers/selinux v1.8.3
+# github.com/opencontainers/selinux v1.8.5
 ## explicit
 github.com/opencontainers/selinux/go-selinux
 github.com/opencontainers/selinux/pkg/pwalk
+github.com/opencontainers/selinux/pkg/pwalkdir
 # github.com/pborman/uuid v1.2.1
 ## explicit
 github.com/pborman/uuid
