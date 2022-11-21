@@ -16,9 +16,9 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/urfave/cli/v2 v2.3.0
-	golang.org/x/net v0.0.0-20210428140749-89ef3d95e781
-	golang.org/x/sys v0.0.0-20210423082822-04245dca01da
-	google.golang.org/grpc v1.39.0
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	google.golang.org/grpc v1.51.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	k8s.io/api v0.21.3
 	k8s.io/apimachinery v0.21.3
